@@ -2,12 +2,12 @@
 Wilkommen auf unserer Seite :)
 
 # Projektname
-Fügen Sie ihren Projektnamen hinzu
+CGA2020KayaBreidbachCinkaya
 
 # Teammitglieder
 
 - Gökhan Kaya
-- Sven 
+- Sven Breidbach
 - Merve Ayse Cinkaya
 
 # Featureliste 
