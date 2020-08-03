@@ -1,9 +1,7 @@
-# CGAProject
-Dies ist das Template Projekt für die Abschlussprojekte im Modul Computergrafik und Animation an der TH Köln.
+# CGAProject 2020
+Wilkommen auf unserer Seite :)
 
-Bitte forken Sie dieses Projekt und entwickeln Sie Ihr Abschlussprojekt in diesem Fork weiter. Denken Sie daran uwemuesse und martineisemann als Collaborators hinzuzufügen, damit wir darauf zugreifen können.
-
-Löschen Sie als erstes den Abschnitt CGAProjekt in dieser Datei und füllen Sie den Rest entsprechend aus für die Abgabe. 
+Dieses Dokument wurde von Gökhan, Sven und Merve Ayse Cinkaya erstellt 
 
 # Projektname
 Fügen Sie ihren Projektnamen hinzu
