@@ -19,3 +19,6 @@ Bspw.
 - Dynamische Kamera (Steuerung mittels Maus und "WASD" auf der Tastatur) 
 - Verschiedene Shaderprogramme (Wechsel mittels "s") 
 - ...
+
+# Quellenangaben
+
