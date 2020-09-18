@@ -15,10 +15,11 @@ Listen Sie hier alle relevanten Features als Liste mit sinnvoller Reihenfolge au
 
 Bspw.
 
-- Verschiedene Kameramodelle (Wechsel zwischen orthographischer und perspektivischer Kamera mittels "c")
+- Verschiedene Kameramodelle 
 - Dynamische Kamera (Steuerung mittels Maus und "WASD" auf der Tastatur) 
 - Verschiedene Shaderprogramme (Wechsel mittels "s") 
-- ...
+- Verschiedene Modelle ( wie zum Beispiel Gummienten, Katze..)
+
 
 # Quellenangaben
 
