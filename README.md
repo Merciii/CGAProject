@@ -18,7 +18,7 @@ Bspw.
 - Verschiedene Kameramodelle 
 - Dynamische Kamera (Steuerung mittels Maus und "WASD" auf der Tastatur) 
 - Verschiedene Shaderprogramme (Wechsel mittels "s") 
-- Verschiedene Modelle ( wie zum Beispiel Gummienten, Katze, Teppich, Tisch mit Stühlen)
+- Verschiedene Modelle (wie zum Beispiel: Gummienten, Katze, Teppich, Tisch mit Stühlen etc.)
 
 
 # Quellenangaben
