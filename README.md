@@ -21,9 +21,9 @@ Bspw.
 
 # Features die wir geplant haben, aber nicht umsetzten konnten
 
-- verschiede Shader wurden programmiert, doch die funktionieren nicht
-- mehrere Modelle wurden hinzugefügt, manche öffnen sich nicht
-- Spielfigur kann springen, jedoch landet sie automatisch nicht. Durch ALT (reset Taste)
+- verschiede Shader wurden programmiert, doch die funktionieren nicht.
+- mehrere Modelle wurden hinzugefügt, manche öffnen sich nicht.
+- Spielfigur kann springen, jedoch landet sie automatisch nicht. Durch ALT (reset Taste) kommt die Katze wieder auf den Boden.
 
 # Quellenangaben
 
