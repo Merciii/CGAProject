@@ -2,11 +2,10 @@
 Wilkommen auf unserer Seite :)
 
 # Projektname
-CGA2020KayaBreidbachCinkaya
+CGA2020BreidbachCinkaya
 
 # Teammitglieder
 
-- Gökhan Kaya
 - Sven Breidbach
 - Merve Ayse Cinkaya
 
@@ -20,6 +19,11 @@ Bspw.
 - Verschiedene Shaderprogramme (Wechsel mittels "s") 
 - Verschiedene Modelle (wie zum Beispiel: Gummienten, Katze, Teppich, Tisch mit Stühlen etc.)
 
+# Features die wir geplant haben, aber nicht umsetzten konnten
+
+- verschiede Shader wurden programmiert, doch die funktionieren nicht
+- mehrere Modelle wurden hinzugefügt, manche öffnen sich nicht
+- Spielfigur kann springen, jedoch landet sie automatisch nicht. Durch ALT (reset Taste)
 
 # Quellenangaben
 
