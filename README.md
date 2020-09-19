@@ -20,6 +20,7 @@ Bspw.
 - Verschiedene Shaderprogramme (Wechsel mittels "s") 
 - Verschiedene Modelle (wie zum Beispiel: Gummienten, Katze, Teppich, Tisch mit Stühlen etc.)
 - Spielfigur kann Springen
+- Neue Bodentextur
 
 # Features die wir geplant haben, aber nicht umsetzten konnten
 
@@ -29,25 +30,25 @@ Bspw.
 
 # Quellenangaben
 
-- Tiles (Nur Textur)
+- Tiles (Nur Textur):
 https://3dtextures.me/2020/09/14/tiles-036/
-- Shader
+- Shader:
 https://www.geeks3d.com/shader-library/
-- Ducky Modell
+- Ducky Modell:
 http://www.oyonale.com/modeles.php?lang=en&page=53
-- Low Poly Cat
+- Low Poly Cat:
 https://free3d.com/3d-model/low-poly-cat-46138.html
-- Tisch Und Stuhl
+- Tisch Und Stuhl:
 https://free3d.com/de/3d-model/masa-ve-sandalye-222808.html
-- Teppich
+- Teppich:
 https://free3d.com/de/3d-model/-rectangular-rug--888279.html
-- Alokaziya
+- Alokaziya:
 https://free3d.com/3d-model/alokaziya-377519.html
-- Lampe
+- Lampe:
 https://free3d.com/de/3d-model/lamp-lighting-485156.html
-- Hund
+- Hund:
 https://free3d.com/de/3d-model/beagle-v1--696208.html
-- ARC-170
+- ARC-170:
 https://free3d.com/de/3d-model/arc-170-battle-ship-64197.html
 
 
