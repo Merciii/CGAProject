@@ -1,0 +1,207 @@
+newmtl Default
+Kd 0.911765 0.911765 0.911765
+Ke 0 0 0
+Ka 0.8 0.8 0.8
+Ks 0.735 0.735 0.735
+Ns 115
+Tr 0
+d 1
+Ni 0
+Tf 1 1 1
+
+newmtl Body
+Kd 0.792157 0.792157 0.792157
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd C:Users/Skeet/Pictures/Textures/0a9e923adee15a3c35eb35a083155bf7.jpg
+
+newmtl Door
+Kd 0.792157 0.792157 0.792157
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd C:Users/Skeet/Pictures/Textures/0a9e923adee15a3c35eb35a083155bf7.jpg
+
+newmtl Glass
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 0 0 0
+Ks 0.75 0.75 0.75
+Ns 400
+Tr 0.95
+d 0.05
+Ni 1
+Tf 1 1 1
+
+newmtl Shelves
+Kd 0.878431 0.921569 0.905882
+Ke 0 0 0
+Ka 0.05 0.05 0.05
+Ks 0.7 0.7 0.7
+Ns 800
+Tr 0.9
+d 0.1
+Ni 1
+Tf 0 0 0
+
+newmtl handgun
+Kd 0.64 0.64 0.64
+Ke 0 0 0
+Ka 0 0 0
+Ks 1 1 1
+Ns 96
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd C:Users/Skeet/Documents/y9432icqx88w-Handgun/Handgun/Handgun_Obj/../textures/handgun_S.jpg
+map_Ks C:Users/Skeet/Documents/y9432icqx88w-Handgun/Handgun/Handgun_Obj/../textures/handgun_S.jpg
+map_bump C:Users/Skeet/Documents/y9432icqx88w-Handgun/Handgun/Handgun_Obj/../textures/handgun_N.jpg
+bump C:Users/Skeet/Documents/y9432icqx88w-Handgun/Handgun/Handgun_Obj/../textures/handgun_N.jpg
+
+newmtl handgun_handgun_C.jpg
+Kd 0.64 0.64 0.64
+Ke 0 0 0
+Ka 0 0 0
+Ks 1 1 1
+Ns 96
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd C:Users/Skeet/Documents/y9432icqx88w-Handgun/Handgun/Handgun_Obj/../textures/handgun_C.jpg
+map_Ks C:Users/Skeet/Documents/y9432icqx88w-Handgun/Handgun/Handgun_Obj/../textures/handgun_S.jpg
+map_bump C:Users/Skeet/Documents/y9432icqx88w-Handgun/Handgun/Handgun_Obj/../textures/handgun_N.jpg
+bump C:Users/Skeet/Documents/y9432icqx88w-Handgun/Handgun/Handgun_Obj/../textures/handgun_N.jpg
+
+newmtl handgun_handgun_C.jpg
+Kd 0.64 0.64 0.64
+Ke 0 0 0
+Ka 0 0 0
+Ks 1 1 1
+Ns 96
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd C:Users/Skeet/Documents/y9432icqx88w-Handgun/Handgun/Handgun_Obj/../textures/handgun_C.jpg
+map_Ks C:Users/Skeet/Documents/y9432icqx88w-Handgun/Handgun/Handgun_Obj/../textures/handgun_S.jpg
+map_bump C:Users/Skeet/Documents/y9432icqx88w-Handgun/Handgun/Handgun_Obj/../textures/handgun_N.jpg
+bump C:Users/Skeet/Documents/y9432icqx88w-Handgun/Handgun/Handgun_Obj/../textures/handgun_N.jpg
+
+newmtl handgun
+Kd 0.64 0.64 0.64
+Ke 0 0 0
+Ka 0 0 0
+Ks 1 1 1
+Ns 96
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd C:Users/Skeet/Documents/y9432icqx88w-Handgun/Handgun/Handgun_Obj/../textures/handgun_S.jpg
+map_Ks C:Users/Skeet/Documents/y9432icqx88w-Handgun/Handgun/Handgun_Obj/../textures/handgun_S.jpg
+map_bump C:Users/Skeet/Documents/y9432icqx88w-Handgun/Handgun/Handgun_Obj/../textures/handgun_N.jpg
+bump C:Users/Skeet/Documents/y9432icqx88w-Handgun/Handgun/Handgun_Obj/../textures/handgun_N.jpg
+
+newmtl Default
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 0.595 0.595 0.595
+Ks 1 1 1
+Ns 555
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Diffuser
+Kd 1 1 1
+Ke 1 1 1
+Ka 0 0 0
+Ks 0.435 0.435 0.435
+Ns 400
+Tr 0.5
+d 0.5
+Ni 1
+Tf 1 1 1
+
+newmtl Body
+Kd 1 1 1
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd C:Users/Skeet/Pictures/Textures/0a9e923adee15a3c35eb35a083155bf7.jpg
+
+newmtl Default
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Door
+Kd 1 1 1
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd C:Users/Skeet/Pictures/Textures/0a9e923adee15a3c35eb35a083155bf7.jpg
+
+newmtl Door_Glass
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 0 0 0
+Ks 0.75 0.75 0.75
+Ns 400
+Tr 0.95
+d 0.05
+Ni 1
+Tf 1 1 1
+
+newmtl Inner_Glass
+Kd 0.878431 0.921569 0.905882
+Ke 0 0 0
+Ka 0.05 0.05 0.05
+Ks 0.7 0.7 0.7
+Ns 800
+Tr 0.9
+d 0.1
+Ni 1
+Tf 0 0 0
+
+newmtl Seperator
+Kd 1 1 1
+Ke 0 0 0
+Ka 0 0 0
+Ks 1 1 1
+Ns 545
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
