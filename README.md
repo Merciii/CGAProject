@@ -14,7 +14,6 @@ Listen Sie hier alle relevanten Features als Liste mit sinnvoller Reihenfolge au
 
 Bspw.
 
-- Verschiedene Kameramodelle 
 - Dynamische Kamera (sicht von der Katze aus: Steuerung mittels Maus und "WASD" auf der Tastatur) 
 - Spielfigur kann sprinten durch SHIFT und W
 - Verschiedene Shaderprogramme (Wechsel mittels "s") 
