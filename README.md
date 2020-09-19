@@ -43,5 +43,12 @@ https://free3d.com/de/3d-model/masa-ve-sandalye-222808.html
 https://free3d.com/de/3d-model/-rectangular-rug--888279.html
 - Alokaziya
 https://free3d.com/3d-model/alokaziya-377519.html
+- Lampe
+https://free3d.com/de/3d-model/lamp-lighting-485156.html
+- Hund
+https://free3d.com/de/3d-model/beagle-v1--696208.html
+- ARC-170
+https://free3d.com/de/3d-model/arc-170-battle-ship-64197.html
+
 
 
