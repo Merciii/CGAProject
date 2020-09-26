@@ -37,6 +37,7 @@ class Scene(private val window: GameWindow)  {
     var cycle: Renderable
     var pointlight :PointLight
     var spotligt :SpotLight
+
     var ducky: Renderable
     var ducky2: Renderable
     var cat: Renderable
@@ -61,11 +62,9 @@ class Scene(private val window: GameWindow)  {
         //Shader
         //staticShader = ShaderProgram("assets/shaders/simple_vert.glsl", "assets/shaders/simple_frag.glsl")
         staticShader = ShaderProgram("assets/shaders/tron_vert.glsl", "assets/shaders/tron_frag.glsl")
-        //staticShader = ShaderProgram("assets/shaders/ToonNeu/toon_vert.glsl", "assets/shaders/ToonNeu/toon_frag.glsl")
+        //staticShader = ShaderProgram("assets/shaders/toon_vert.glsl", "assets/shaders/toon_frag.glsl")
 
         //Modelle
-
-
         //TronBike -- NICHT GERENDERT
         cycle  = ModelLoader.loadModel("assets/Light Cycle/Light Cycle/HQ_Movie cycle.obj",Math.toRadians(-90f),Math.toRadians(90f),0f) ?: throw IllegalArgumentException("Could not load the model")
         cycle.translateGlobal(Vector3f(10f, 0f, 10f))
@@ -187,7 +186,7 @@ class Scene(private val window: GameWindow)  {
         // kugelr.scaleLocal(Vector3f(0.5f,0.5f,0.5f))
 
         //Kamera
-        // Wer hat die Kamera
+        // Wer hat die Kamera? Die Katze
         camera = TronCamera()
         camera.rotateLocal(Math.toRadians(-35.0f),0f,0f)
        // camera.translateLocal(Vector3f(0.0f,0.0f,4.0f))
